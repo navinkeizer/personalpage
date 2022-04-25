@@ -11,4 +11,5 @@ publication: "IFIP Networking Conference; DI2F: Decentralising the Internet with
 
 links:
     paper: https://ieeexplore.ieee.org/abstract/document/9472783
+    slides: https://github.com/navinkeizer/personalpage/blob/main/presentations/DI2F.pptx
 ---
