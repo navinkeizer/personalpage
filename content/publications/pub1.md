@@ -1,7 +1,7 @@
 ---
 title: "Rewarding Relays for Decentralised NAT Traversal Using Smart Contracts"
 authors:
-- Navin V Keizer
+- Navin V. Keizer
 - Onur Ascigil
 - Ioannis Psaras
 - George Pavlou
